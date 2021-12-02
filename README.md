@@ -11,3 +11,6 @@ In this project, we are going to interface Ultrasonic sensor HC-SR04 with Atmega
 | 4_TestPlan |	Process of the project |
 | 5_Report |	Detaied Process and Goal |
 | 5_Images and Videos |	Images and videos of output |
+
+
+[![Cppcheck](https://github.com/40020851/M2-Embedded_DistanceMeasurement/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/40020851/M2-Embedded_DistanceMeasurement/actions/workflows/cppcheck.yml)
