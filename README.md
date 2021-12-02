@@ -19,3 +19,7 @@ In this project, we are going to interface Ultrasonic sensor HC-SR04 with Atmega
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/62650063c82c4c2c8caf00c612695ac8)](https://app.codacy.com/gh/40020851/M2-Embedded_DistanceMeasurement?utm_source=github.com&utm_medium=referral&utm_content=40020851/M2-Embedded_DistanceMeasurement&utm_campaign=Badge_Grade_Settings)
 
 [![Cppcheck](https://github.com/40020851/M2-Embedded_DistanceMeasurement/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/40020851/M2-Embedded_DistanceMeasurement/actions/workflows/cppcheck.yml)
+
+
+
+
