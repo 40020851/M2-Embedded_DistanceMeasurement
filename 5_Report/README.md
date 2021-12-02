@@ -52,6 +52,8 @@ https://github.com/40020851/M2-Embedded_DistanceMeasurement/blob/main/2_Design/B
 https://github.com/40020851/M2-Embedded_DistanceMeasurement/blob/main/2_Design/Structural%20diagram.png
 # Block diagram
 https://github.com/40020851/M2-Embedded_DistanceMeasurement/blob/main/2_Design/Block%20diagram.png
+# Simulation
+https://github.com/40020851/M2-Embedded_DistanceMeasurement/blob/main/2_Design/simulation.png
 
 # TEST PLAN
 
