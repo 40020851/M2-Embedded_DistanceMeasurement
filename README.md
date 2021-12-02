@@ -10,7 +10,10 @@ In this project, we are going to interface Ultrasonic sensor HC-SR04 with Atmega
 
 [![Cppcheck](https://github.com/40020851/M2-Embedded_DistanceMeasurement/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/40020851/M2-Embedded_DistanceMeasurement/actions/workflows/cppcheck.yml)
 
-![image](https://user-images.githubusercontent.com/94366047/144436589-2a9a68f4-44f1-4d1e-bb25-30cc0904e071.png)
+
+
+
+
 
 # Folder structure
 
